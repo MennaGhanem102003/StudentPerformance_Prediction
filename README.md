@@ -40,7 +40,7 @@ Technologies Used
 How to Run
 --------------------------------
 1. Clone the repository:
-   git clone https://github.com/your-username/StudentPerformance_Prediction.git
+   git clone https://github.com/MennaGhanem102003/StudentPerformance_Prediction.git
    cd StudentPerformance_Prediction
 
 2. Install dependencies:
